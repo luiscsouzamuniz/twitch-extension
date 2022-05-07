@@ -1,7 +1,7 @@
 {
-  "name": "extension-hello-world",
+  "name": "cassino-wig1bot",
   "version": "1.0.0",
-  "description": "Simple Hello World Twitch Extension",
+  "description": "Extensão para mostrar vencedores do cassino do wig1bot",
   "main": "index.js",
   "scripts": {
     "cert": "node bin/generate_cert.js server",
